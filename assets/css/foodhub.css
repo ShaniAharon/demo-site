@@ -859,7 +859,8 @@ html {
 \*-----------------------------------*/
 
 footer {
-  background: var(--space-cadet);
+  /* background: var(--space-cadet); */
+  background-color: #343434;
   padding: 50px var(--px);
 }
 
